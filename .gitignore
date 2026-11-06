@@ -1,0 +1,20 @@
+# Środowiska wirtualne i IDE
+venv/
+env/
+__pycache__/
+.vscode/
+.idea/
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
+
+# Surowe oraz przetworzone zestawy danych (żeby nie wrzucać dużych plików CSV na GitHub)
+data/
+
+# Wygenerowane wykresy i raporty graficzne
+plots/
+plots_clean/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
